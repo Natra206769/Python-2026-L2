@@ -1,5 +1,4 @@
-USTH Advanced Programming with Python 2026
-==================================
+# USTH Advanced Programming with Python 2026
 
-* Your name here
-* Your ID here
+- Phạm Hoàng Nam
+- 2410699
